@@ -7,6 +7,10 @@ Small Python project that compares **conventional manufacturing** vs **additive 
 
 The script plots both comparisons side-by-side and computes break-even points from the model inputs.
 
+## Sample Output
+
+![Sample cost comparison chart](assets/sample_output.png)
+
 ## What This Models
 
 1. `Volume` model:
